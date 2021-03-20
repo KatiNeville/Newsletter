@@ -62,3 +62,11 @@ app.post("/failure", function(req, res){
 app.listen(process.env.PORT || 3000, function(){ // process.env.PORT is used when deploying the app on heroku, so that it can be run on any server and not necessarily 3000.
   console.log("server is running on port 3000")
 });
+
+
+
+// API KEY
+// a28272a147e6bef86e900aa72f845191-us1
+//
+// LIST ID
+// 9bbcf0e45d
